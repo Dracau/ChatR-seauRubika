@@ -1,0 +1,15 @@
+D:\JN\Reso\Reso\bin\Debug\net7.0\Reso.exe
+D:\JN\Reso\Reso\bin\Debug\net7.0\Reso.deps.json
+D:\JN\Reso\Reso\bin\Debug\net7.0\Reso.runtimeconfig.json
+D:\JN\Reso\Reso\bin\Debug\net7.0\Reso.dll
+D:\JN\Reso\Reso\bin\Debug\net7.0\Reso.pdb
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.csproj.AssemblyReference.cache
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.GeneratedMSBuildEditorConfig.editorconfig
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.AssemblyInfoInputs.cache
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.AssemblyInfo.cs
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.csproj.CoreCompileInputs.cache
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.dll
+D:\JN\Reso\Reso\obj\Debug\net7.0\refint\Reso.dll
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.pdb
+D:\JN\Reso\Reso\obj\Debug\net7.0\Reso.genruntimeconfig.cache
+D:\JN\Reso\Reso\obj\Debug\net7.0\ref\Reso.dll
